@@ -644,7 +644,7 @@ a {
   background-size: cover;
   background-position: center center; }
 .bg-image--4 {
-  background-image: url(images/bg/4.jpg);
+  background-image: url(images/fotos-local/libreria-1.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center; }
@@ -5753,7 +5753,7 @@ a.checkout__title {
       .wedget__categories.poroduct--cat ul li a:hover {
         color: #e59285; }
       .wedget__categories.poroduct--cat ul li a span {
-        color: ##333;
+        color: #333;
         float: right; }
 .wedget__categories.pro--range {
   margin: 0 0 30px; }
@@ -5809,18 +5809,19 @@ a.checkout__title {
       margin: 20px auto 0;
       width: 100%; }
     .wedget__categories.sidebar--banner .text::before {
-      border-color: rgba(255, 255, 255, 0.2);
+      border-color: rgba(255, 255, 255, 0.356);
       border-style: solid;
       border-width: 6px 5px 0;
       content: "";
       display: inline-block;
-      height: 53px;
+      height: 100%;
       margin: 0 auto 20px;
       width: 100%; }
     .wedget__categories.sidebar--banner .text h2 {
-      color: #e59285;
-      font-size: 14px;
-      text-transform: uppercase; }
+      color: #ffffff;
+      font-size: 40px;
+      text-transform: uppercase;
+    margin-top: -25rem; }
     .wedget__categories.sidebar--banner .text h6 {
       color: #fff;
       font-size: 30px;
@@ -5833,7 +5834,7 @@ a.checkout__title {
 .content-shopby {
   margin-top: 32px; }
 .price--output input {
-  border: 0 none; }
+  border: 0 none; } 
 .price--output span {
   color: #333;
   font-size: 14px; }
